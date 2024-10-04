@@ -1,0 +1,14 @@
+rl = resume left
+rp = resume picture
+sb = semi bold
+b = bold
+reg=reguler
+rc=resume content
+ri=resume item
+rs=resume skill
+sn=skill name
+sp=skill progress
+spc = skill presentage
+rsoc = resume social
+ra = resume about
+rw = resume work expr
